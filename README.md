@@ -1,5 +1,7 @@
 ## 洗脑APP
+
 ![image](https://github.com/user-attachments/assets/3d9bde0c-d3ae-4dca-bce3-e88efd270560)
+![image](https://github.com/user-attachments/assets/f509891c-b945-4cd2-982c-5204258eccd9)
 
 ## 安装和使用
 
