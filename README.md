@@ -1,3 +1,6 @@
+## 洗脑APP
+![image](https://github.com/user-attachments/assets/3d9bde0c-d3ae-4dca-bce3-e88efd270560)
+
 ## 安装和使用
 
 1. 克隆此仓库
